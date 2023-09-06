@@ -92,7 +92,7 @@ sample_mean_20 = pd.DataFrame({
 
 - 이 코드를 보면 맨 위 코드는 loans_income에서 1000개를 sampling 한 것이고, 두번째는 5개를 sample로 뽑아서 평균을 구한 값을 1000개를 뽑는 것이고, 세번째는 20개를 sample로 뽑아서 평균을 구한 값을 1000개를 뽑고 있다.
 
-![Untitled](Chapter%202%/Untitled.png)
+<img src='../gunwo/Chapter 2/Untitled.png'>
 
 ### 2.3.1 중심극한정리
 
